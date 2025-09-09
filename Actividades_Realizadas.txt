@@ -1,0 +1,16 @@
+Las actividades y las fechas en las que las tengo son las siguientes:
+
+1) Pantalla Google (1sep)
+2) Primera landing page (1sep)
+3) Esquema DOM (2sep)
+4) Segunda landing page (2sep)
+5) Layout (3sep)
+6) Pagina de noticias (3sep)
+7) Formulario con modal (4sep)
+8) Input predictivo (se dejó el 4 de Sep para la pagina que se hizo de google)
+9) Css conectores (4sep)
+
+NOTA:
+
+La pantalla de Google con el input predictivo están en el mismo archivo "pantallgoogle.html" ya que solo se agregaron las palabras pretederminadas a la simulación de la pantalla que hicimos.
+
